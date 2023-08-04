@@ -3,6 +3,7 @@
 <topic id="topic_a4n_xhr_3yb">
     <title>Test</title>
     <body>
-        <p>test</p>
+        <p>test<image href="Gardeniaflower.jpg"
+                id="image-221e3771-b877-40ce-83e3-4eecfb10eccc"/></p>
     </body>
 </topic>
